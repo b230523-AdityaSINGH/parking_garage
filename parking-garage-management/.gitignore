@@ -1,0 +1,10 @@
+node_modules/
+.env
+*.log
+
+backend/database/parking.db
+backend/database/parking.db-shm
+backend/database/parking.db-wal
+
+frontend/dist/
+.DS_Store
